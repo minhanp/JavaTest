@@ -1,6 +1,6 @@
 
 public class Haallo{
 	public static void main(String[] args) {
-		System.out.println("HALT asd ");
+		System.out.println("k asd ");
 	}
 }
