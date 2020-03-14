@@ -1,6 +1,6 @@
 
 public class Haallo{
 	public static void main(String[] args) {
-		System.out.println("scurrr");
+		System.out.println("funtks jetzt?");
 	}
 }
